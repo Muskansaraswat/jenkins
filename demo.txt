@@ -1,0 +1,1 @@
+this is a sample file created for jenkins demo to learn how to connect git remote repository using git platform.
